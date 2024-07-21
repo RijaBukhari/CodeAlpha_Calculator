@@ -1,3 +1,3 @@
 # CodeAlpha_Calculator
 
-This repository contains the code for a 3D-Calculator having an attractive UI which I created during my CodeAlpha Internship. This 3D-Calculator is developed using HTML, CSS and JavaScript.
+This repository contains the code for a 3D-Calculator having an attractive UI which I created during my internship at CodeAlpha. This 3D-Calculator is developed using HTML, CSS and JavaScript.
